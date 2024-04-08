@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+HI! WELCOME TO THE WEBSITE OF THE MIT UNDERGRADUATE ECONOMICS ASSOCIATION. THE UEA IS A GROUP OF UNDERGRADUATES INTERESTED IN ECONOMICS WHO MEET FOR THE PURPOSE OF SUPPORTING ACADEMIC ENDEAVORS, IMPROVING EMPLOYMENT OPPORTUNITIES, AND EXTENDING NETWORKS WITH EACH OTHER AND THE OUTSIDE WORLD.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+WE'D LOVE FOR YOU TO JOIN US AT OUR TALKS, SOCIALS, AND OTHER EVENTS WE HOST THROUGHOUT THE YEAR!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ADD OUR GOOGLE CALENDAR TO SEE OUR LATEST EVENTS: 
+
+[Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
