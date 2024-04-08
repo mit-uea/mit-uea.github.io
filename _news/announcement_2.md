@@ -10,7 +10,7 @@ On Feb 15, 2024, the UEA hosted a Lunch and Learn on Competition Policy with one
 
 ---
 
-On Thursday, February 15th, the UEA hosted a lunch event featuring Professor Nancy Rose, held at 12:00 PM in room E51-149. The event centered around a talk on competition policy, covering topics such as antitrust regulations, vertical integration, and mergers. Attendees were treated to Flour sandwiches while gaining insights into the intricate world of industrial organization from Professor Rose.
+On Thursday, the UEA hosted a lunch event featuring Professor Nancy Rose. The event centered around a talk on competition policy, covering topics such as antitrust regulations, vertical integration, and mergers. Attendees were treated to Flour sandwiches while gaining insights into the intricate world of industrial organization from Professor Rose.
 
 Professor Rose brought a wealth of experience to the table, drawing from her roles leading the U.S. Department of Justice's antitrust division and the National Bureau of Economics Research's IO department. Her expertise provided attendees with a deep understanding of the complexities within the field.
 
