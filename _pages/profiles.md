@@ -14,71 +14,71 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <pSuat</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Suat</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: left
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Audrey</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: right
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Angela</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: left
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Brian</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: right
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Joy</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: left
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Rachel</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: right
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ethan</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: left
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Emma</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
   - align: right
     image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Sam</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Major: </p>
+      <p>Year: </p>
 ---
