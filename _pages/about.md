@@ -17,10 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-HI! WELCOME TO THE WEBSITE OF THE MIT UNDERGRADUATE ECONOMICS ASSOCIATION. THE UEA IS A GROUP OF UNDERGRADUATES INTERESTED IN ECONOMICS WHO MEET FOR THE PURPOSE OF SUPPORTING ACADEMIC ENDEAVORS, IMPROVING EMPLOYMENT OPPORTUNITIES, AND EXTENDING NETWORKS WITH EACH OTHER AND THE OUTSIDE WORLD.
+Welcome to the MIT Undergraduate Economics Association website! We're a community of undergraduates passionate about economics, coming together to enhance academic pursuits, broaden career prospects, and expand networks both internally and externally.
 
-WE'D LOVE FOR YOU TO JOIN US AT OUR TALKS, SOCIALS, AND OTHER EVENTS WE HOST THROUGHOUT THE YEAR!
+Join us for engaging talks, social gatherings, and various events held throughout the year!
 
-ADD OUR GOOGLE CALENDAR TO SEE OUR LATEST EVENTS: 
+Stay updated with our latest events by adding our Google Calendar: [Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
 
-[Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
+We look forward to having you with us!
