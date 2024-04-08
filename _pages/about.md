@@ -11,6 +11,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+latest_posts: false # includes a list of the newest posts
 ---
 
 Welcome to the MIT Undergraduate Economics Association website! We're a community of undergraduates passionate about economics, coming together to enhance academic pursuits, broaden career prospects, and expand networks both internally and externally.

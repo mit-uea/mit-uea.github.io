@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Course q4 Underground Handbook
-description: a project with a background image
-img: assets/img/12.jpg
+title: Course 14 Underground Handbook
+description: the inside scoop on classes, careers, UROPs, internships, externships, and more in Course 14
+img: assets/img/mit_econ_logo.png
 importance: 1
-category: work
+category: fourteen
 related_publications: true
 cv_pdf: handbook.pdf
 ---
 
 We did the research so you don't have to! Get the inside scoop on classes, careers, UROPs, internships, externships, and more in our Course 14 Underground Handbook -- written by students, for students.
 
-<iframe src="handbook.pdf" style="width:100%; height:700px;" frameborder="0">
+<iframe src="assets/pdf/handbook.pdf" style="width:100%; height:700px;" frameborder="0">
 <!DOCTYPE html>
     <html>
         <head></head>
