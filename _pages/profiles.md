@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -26,7 +26,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -34,7 +34,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -42,7 +42,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -50,7 +50,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -58,7 +58,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -66,7 +66,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -74,7 +74,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: Tim_front-half_rbg.png
+    image: Tim_front-half_rgb.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
