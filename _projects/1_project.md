@@ -11,12 +11,8 @@ pdf: handbook.pdf
 
 We did the research so you don't have to! Get the inside scoop on classes, careers, UROPs, internships, externships, and more in our Course 14 Underground Handbook -- written by students, for students.
 
-<!DOCTYPE html>
 <html>
 
-<head>
-    <title>PDF in HTML</title>
-</head>
 <style>
     .pdf {
         width: 100%;
@@ -35,19 +31,17 @@ We did the research so you don't have to! Get the inside scoop on classes, caree
     }
 
     h1 {
-        color: green;
+        color: DarkRed;
     }
 </style>
 
 <body>
-        <h1>GeeksforGeeks</h1>
-        <h3>Embedding the PDF file Using Iframe Tag</h3>
+        <h3>Course 14 Handbook</h3>
         <iframe class="pdf" 
                 src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+"https://mit-uea.github.io/assets/pdf/handbook.pdf"
             width="800" height="500">
         </iframe>
 </body>
 
 </html>
-
