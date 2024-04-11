@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-On Feb 15, 2024, the UEA hosted a Lunch and Learn on Competition Policy with one of our economics professors Nancy Rose! 
+On Feb 15, 2024, the UEA hosted a Lunch and Learn on Competition Policy with one of our economics professors Nancy Rose!
 
 ---
 

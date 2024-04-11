@@ -11,21 +11,43 @@ pdf: handbook.pdf
 
 We did the research so you don't have to! Get the inside scoop on classes, careers, UROPs, internships, externships, and more in our Course 14 Underground Handbook -- written by students, for students.
 
-<html lang="en">
+<!DOCTYPE html>
+<html>
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Embedded PDF</title>
+    <title>PDF in HTML</title>
 </head>
+<style>
+    .pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+    }
+    .pdf,
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+   h1,
+    h3 {
+        text-align: center;
+    }
+
+    h1 {
+        color: green;
+    }
+</style>
+
 <body>
-
-<!-- Using the <embed> tag -->
-<embed src="assets/pdf/handbook.pdf" width="800px" height="600px" />
-
-<!-- Using the <object> tag -->
-<object data="handbook.pdf" type="assets/pdf" width="800px" height="600px">
-  <p>Alternative text - include a link to the PDF!</p>
-</object>
-
+        <h1>GeeksforGeeks</h1>
+        <h3>Embedding the PDF file Using Iframe Tag</h3>
+        <iframe class="pdf" 
+                src=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+            width="800" height="500">
+        </iframe>
 </body>
+
 </html>
+
