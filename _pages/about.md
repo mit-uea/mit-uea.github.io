@@ -18,6 +18,6 @@ Welcome to the MIT Undergraduate Economics Association website! We're a communit
 
 Join us for engaging talks, social gatherings, and various events held throughout the year!
 
-Stay updated by adding our Google Calendar: [Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
+Stay updated by adding our Google Calendar 📅: [Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
 
 We look forward to having you with us!
