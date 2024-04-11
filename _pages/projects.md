@@ -1,8 +1,8 @@
 ---
 layout: page
-title: resources
+title: Resources
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: explore mit's economics department (course 14), academic programs, and additional resources for economics enthusiasts.
 nav: true
 nav_order: 3
 display_categories: [fourteen, majors]

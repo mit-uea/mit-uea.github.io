@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: officers
+title: Officers
 description: members of the lab or group
 nav: true
 nav_order: 7
