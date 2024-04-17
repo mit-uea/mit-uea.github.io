@@ -3,8 +3,8 @@
  ******************************************************************************/
 
  :root {
-  --global-bg-color: #{$mit-beige};
-  --global-code-bg-color: #{$mit-beige};
+  --global-bg-color: #{$mit-white};
+  --global-code-bg-color: #{$mit-white};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$mit-red};
@@ -56,13 +56,13 @@
 html[data-theme="dark"] {
   --global-bg-color: #{$mit-dark-gray};
   --global-code-bg-color: #{$mit-dark-gray};
-  --global-text-color: #{$mit-beige};
-  --global-text-color-light: #{$mit-beige};
-  --global-theme-color: #{$mit-red};
-  --global-hover-color: #{$mit-red};
+  --global-text-color: #{$mit-white};
+  --global-text-color-light: #{$mit-white};
+  --global-theme-color: #{$mit-light-red};
+  --global-hover-color: #{$mit-light-red};
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$mit-beige};
-  --global-footer-text-color: #{$mit-dark-gray};
+  --global-footer-bg-color: #{$code-bg-color-dark};
+  --global-footer-text-color: #{$mit-white};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
