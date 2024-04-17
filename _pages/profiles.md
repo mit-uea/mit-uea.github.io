@@ -22,14 +22,14 @@ profiles:
     more_info: >
       <p>Audrey</p>
   - align: right
-    image: Tim_front-half_rgb.png
-    content: about_einstein.md
+    image: angelali.jpg
+    content: angela.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Angela Li</p>
   - align: left
     image: Tim_front-half_rgb.png
-    content: angela.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Brian</p>
