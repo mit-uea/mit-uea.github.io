@@ -5,7 +5,7 @@ description: The inside scoop on classes, careers, UROPs, internships, externshi
 img: assets/img/mit_econ_logo.png
 importance: 1
 category: fourteen
-related_publications: true
+related_publications: false
 pdf: handbook.pdf
 ---
 

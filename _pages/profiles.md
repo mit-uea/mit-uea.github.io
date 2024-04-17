@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: UEA Board Officers
+title: Officers
 description: 
 nav: true
 nav_order: 7
@@ -32,7 +32,7 @@ profiles:
     content: joy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Joy</p>
+      <p>Joy Bhattacharya</p>
   - align: right
     image: Tim_front-half_rgb.png
     content: about_einstein.md
