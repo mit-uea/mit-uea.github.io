@@ -29,16 +29,16 @@ profiles:
       <p>Angela Li</p>
   - align: left
     image: Tim_front-half_rgb.png
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Brian</p>
-  - align: right
-    image: Tim_front-half_rgb.png
-    content: about_einstein.md
+    content: joy.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Joy</p>
+  - align: right
+    image: Tim_front-half_rgb.png
+    content: joabout_einsteiny.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Brian</p>
   - align: left
     image: Tim_front-half_rgb.png
     content: about_einstein.md
