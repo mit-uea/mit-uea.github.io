@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Officers
-description: members of the lab or group
+title: UEA Board Officers
+description: 
 nav: true
 nav_order: 7
 
@@ -28,7 +28,7 @@ profiles:
     more_info: >
       <p>Angela Li</p>
   - align: left
-    image: Tim_front-half_rgb.png
+    image: joybhattacharya.jpg
     content: joy.md
     image_circular: false # crops the image to make it circular
     more_info: >
