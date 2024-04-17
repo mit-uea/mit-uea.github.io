@@ -35,7 +35,7 @@ profiles:
       <p>Joy</p>
   - align: right
     image: Tim_front-half_rgb.png
-    content: joabout_einsteiny.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Brian</p>
