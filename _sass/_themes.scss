@@ -3,12 +3,12 @@
  ******************************************************************************/
 
  :root {
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-bg-color: #{$mit-beige};
+  --global-code-bg-color: #{$mit-beige};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$mit-red};
+  --global-hover-color: #{$mit-red};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -54,15 +54,15 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #{$grey-color-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-bg-color: #{$mit-dark-gray};
+  --global-code-bg-color: #{$mit-dark-gray};
+  --global-text-color: #{$mit-beige};
+  --global-text-color-light: #{$mit-beige};
+  --global-theme-color: #{$mit-red};
+  --global-hover-color: #{$mit-red};
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
+  --global-footer-bg-color: #{$mit-beige};
+  --global-footer-text-color: #{$mit-dark-gray};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
