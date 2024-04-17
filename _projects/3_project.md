@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: Majoring in Economics
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://economics.mit.edu/academic-programs/undergraduate-program/majors
 importance: 3
-category: work
+category: fourteen
 ---
 
 Every project has a beautiful feature showcase page.
