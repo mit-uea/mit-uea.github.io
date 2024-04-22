@@ -19,4 +19,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Joy Bhattacharya</p>
+  - align: right
+    image: rachelzheng.jpg
+    content: rachel.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Rachel Zheng</p>
 ---
