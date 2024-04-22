@@ -36,7 +36,7 @@ profiles:
     content: ethan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>Ethan Nguyen</p>
+      <p>Ethan Nguyen</p>
   - align: right
     image: samsalwan.jpg
     content: sam.md
