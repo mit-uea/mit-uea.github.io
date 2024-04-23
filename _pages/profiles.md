@@ -7,7 +7,13 @@ nav: true
 nav_order: 7
 
 profiles:
-  - align: left
+  - align: right
+    image: suatevren.jpg
+    content: suat.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Suat Evren</p>
+  - align: right
     image: audreylorvo.jpg
     content: audrey.md
     image_circular: false # crops the image to make it circular
@@ -19,7 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Angela Li</p>
-  - align: left
+  - align: right
     image: joybhattacharya.jpg
     content: joy.md
     image_circular: false # crops the image to make it circular
@@ -31,8 +37,20 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Rachel Zheng</p>
-  - align: left
-    image: ethannguyen.jpg
+  - align: right
+    image: brianliu.jpg
+    content: brian.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Brian Liu</p>
+  - align: right
+    image: emmazhu.jpg
+    content: emma.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Emma Zhu</p>
+  - align: right
+    image: ethannguyen.png
     content: ethan.md
     image_circular: false # crops the image to make it circular
     more_info: >
