@@ -1,4 +1,4 @@
-version: "3"
+# version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
@@ -9,3 +9,5 @@ services:
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+    working_dir: /srv/jekyll
+    command: sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling"

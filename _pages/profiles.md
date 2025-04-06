@@ -2,63 +2,85 @@
 layout: profiles
 permalink: /people/
 title: Officers
-description: 
+description:
 nav: true
 nav_order: 7
 
 profiles:
   - align: right
-    image: suatevren.jpg
-    content: suat.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Suat Evren</p>
-  - align: right
-    image: audreylorvo.jpg
-    content: audrey.md
+    image: audreylorvo.png
+    content: officers/audrey.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Audrey Lorvo</p>
-  - align: right
-    image: angelali.jpg
-    content: angela.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Angela Li</p>
-  - align: right
-    image: joybhattacharya.jpg
-    content: joy.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Joy Bhattacharya</p>
-  - align: right
-    image: rachelzheng.jpg
-    content: rachel.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Rachel Zheng</p>
-  - align: right
-    image: brianliu.jpg
-    content: brian.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Brian Liu</p>
-  - align: right
-    image: emmazhu.jpg
-    content: emma.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Emma Zhu</p>
+
   - align: right
     image: ethannguyen.png
-    content: ethan.md
-    image_circular: false # crops the image to make it circular
+    content: officers/ethan.md
+    image_circular: false
     more_info: >
       <p>Ethan Nguyen</p>
+
+  - align: right
+    image: emmazhu.png
+    content: officers/emma.md
+    image_circular: false
+    more_info: >
+      <p>Emma Zhu</p>
+
+  - align: right
+    image: emmazhu.png
+    content: officers/alicen.md
+    image_circular: false
+    more_info: >
+      <p>Alicen Liu</p>
+
+  - align: right
+    image: yichensun.jpg
+    content: officers/yichen.md
+    image_circular: false
+    more_info: >
+      <p>Yichen Sun</p>
+
+  - align: right
+    image: emmazhu.png
+    content: officers/kailey.md
+    image_circular: false
+    more_info: >
+      <p>Kailey Simons</p>
+
+  - align: right
+    image: annali.jpg
+    content: officers/anna.md
+    image_circular: false
+    more_info: >
+      <p>Anna Li</p>
+
   - align: right
     image: samsalwan.jpg
-    content: sam.md
-    image_circular: false # crops the image to make it circular
+    content: officers/sam.md
+    image_circular: false
     more_info: >
       <p>Sam Salwan</p>
+
+  - align: right
+    image: emmazhu.png
+    content: officers/elly.md
+    image_circular: false
+    more_info: >
+      <p>Elly Kang</p>
+
+  - align: right
+    image: emmazhu.png
+    content: officers/fatimeh.md
+    image_circular: false
+    more_info: >
+      <p>Fatimeh Al Ghannam</p>
+
+  - align: right
+    image: emmazhu.png
+    content: officers/tea.md
+    image_circular: false
+    more_info: >
+      <p>Tea Picconatto</p>
 ---
