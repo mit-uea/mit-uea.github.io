@@ -29,7 +29,7 @@ profiles:
       <p>Emma Zhu</p>
 
   - align: right
-    image: emmazhu.png
+    # image: emmazhu.png
     content: officers/alicen.md
     image_circular: false
     more_info: >
@@ -64,21 +64,21 @@ profiles:
       <p>Sam Salwan</p>
 
   - align: right
-    image: emmazhu.png
+    image: ellykang.png
     content: officers/elly.md
     image_circular: false
     more_info: >
       <p>Elly Kang</p>
 
   - align: right
-    image: emmazhu.png
+    # image: emmazhu.png
     content: officers/fatimeh.md
     image_circular: false
     more_info: >
       <p>Fatimeh Al Ghannam</p>
 
   - align: right
-    image: emmazhu.png
+    # image: emmazhu.png
     content: officers/tea.md
     image_circular: false
     more_info: >
