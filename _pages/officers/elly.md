@@ -1,4 +1,4 @@
-Elly Kang
+External Relations Chair
 
 - she/her/hers
 - 2027
