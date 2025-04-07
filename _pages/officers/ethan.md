@@ -1,6 +1,6 @@
 Vice President
 
-- he/him/his
+- he/him
 - 2026
 - Major: 6-14
 - Areas of Interest:
