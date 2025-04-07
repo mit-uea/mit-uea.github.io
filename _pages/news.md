@@ -5,5 +5,5 @@ permalink: /news/
 nav: true
 nav_order: 5
 ---
-![Nobel Prize Panel](/assets/img/nobelprizepanel.png)
+<img src="/assets/img/nobelprizepanel.png" alt="Nobel Prize Panel">
 {% include news.liquid %}
