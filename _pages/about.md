@@ -21,3 +21,5 @@ Join us for engaging talks, social gatherings, and various events held throughou
 Stay updated by adding our Google Calendar 📅: [Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
 
 We look forward to having you with us!
+
+<img src="/assets/img/nobelprizepanel.png" alt="Nobel Prize Panel">

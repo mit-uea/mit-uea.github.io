@@ -1,6 +1,6 @@
 External Relations Chair
 
-- she/her/hers
+- she/her
 - 2027
 - Major: 14-1
 - Areas of Interest:
