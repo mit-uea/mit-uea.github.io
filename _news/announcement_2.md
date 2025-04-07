@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Prof. Nancy Rose - Lunch and Learn about Competition Policy
 date: 2024-02-15 16:11:00-0400
@@ -33,4 +33,4 @@ The event boasted an impressive turnout, with over 40 undergraduate students att
 </div>
 <div class="caption">
     Prof. Rose with the UEA Board Officers
-</div>
+</div> -->

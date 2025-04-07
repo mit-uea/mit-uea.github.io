@@ -43,7 +43,7 @@ profiles:
       <p>Yichen Sun</p>
 
   - align: right
-    image: emmazhu.png
+    image: kaileysimons.png
     content: officers/kailey.md
     image_circular: false
     more_info: >

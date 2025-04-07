@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-04-16 07:59:00-0400
-inline: true
+date: 2025-08-08 07:59:00-0400
+inline: false
 related_posts: false
 ---
 
-PhD Panel with Prof. Wolitzky and Prof. Hendren
+How to Win a Nobel Prize Panel:
+Daron Acemoglu, Esther Duflo, Abhijit Banerjee, Joshua Angrist, and Bengt Holmstrom
