@@ -1,6 +1,6 @@
-Secretary
+Co-Publicity Chair
 
 - she/her
 - 2027
-- Major: 6-14
+- Major: 14-2
 - Areas of Interest:
