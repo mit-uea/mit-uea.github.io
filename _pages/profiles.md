@@ -36,7 +36,7 @@ profiles:
       <p>Fatimeh Al Ghannam</p>
 
   - align: right
-    image: alicenliu.png
+    image: alicenliu.jpg
     content: officers/alicen.md
     image_circular: false
     more_info: >
