@@ -5,6 +5,8 @@ date: 2025-11-20 15:59:00-0400
 inline: true
 related_posts: false
 ---
+
+Book Talk with Judd Kessler
 <!--
 On Nov 20, 2025, the UEA will host a Book Talk with Judd Kessler from 4-5pm!
 

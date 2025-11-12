@@ -22,8 +22,11 @@ Stay updated by adding our Google Calendar 📅: [Events Calendar](https://calen
 
 We look forward to having you with us!
 
+---
+
 **Upcoming Event: Book Talk with Judd Kessler**
-Novemeber 20, 2025 @ 4-5pm
+
+November 20, 2025 @ 4-5pm
 
 Judd B. Kessler is the inaugural Howard Marks Endowed Professor at the Wharton School of the University of Pennsylvania. His research and writing have been featured in leading media, such as The New York Times, The Wall Street Journal, The Washington Post, Harvard Business Review, NPR, Hidden Brain, and Freakonomics, among others. He is a sought-after speaker and an award-winning teacher. His courses in Wharton’s Business Economics and Public Policy Department are popular among undergraduates, MBAs, PhD students, and executives. He received a bachelor’s degree, MA, and PhD from Harvard University and an MPhil from the University of Cambridge. His first book is LUCKY BY DESIGN: The Hidden Economics You Need to Get More of What You Want, which was released by Little, Brown Spark on October 14, 2025.
 
