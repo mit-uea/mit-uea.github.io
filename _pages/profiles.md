@@ -8,11 +8,11 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: audreylorvo.png
-    content: officers/audrey.md
+    image: kaileysimons.png
+    content: officers/kailey.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Audrey Lorvo</p>
+      <p>Kailey Simons</p>
 
   - align: right
     image: ethannguyen.png
@@ -22,20 +22,6 @@ profiles:
       <p>Ethan Nguyen</p>
 
   - align: right
-    image: emmazhu.png
-    content: officers/emma.md
-    image_circular: false
-    more_info: >
-      <p>Emma Zhu</p>
-
-  - align: right
-    # image: emmazhu.png
-    content: officers/alicen.md
-    image_circular: false
-    more_info: >
-      <p>Alicen Liu</p>
-
-  - align: right
     image: yichensun.jpg
     content: officers/yichen.md
     image_circular: false
@@ -43,11 +29,18 @@ profiles:
       <p>Yichen Sun</p>
 
   - align: right
-    image: kaileysimons.png
-    content: officers/kailey.md
+    # image: .png
+    content: officers/fatimeh.md
     image_circular: false
     more_info: >
-      <p>Kailey Simons</p>
+      <p>Fatimeh Al Ghannam</p>
+
+  - align: right
+    image: alicenliu.png
+    content: officers/alicen.md
+    image_circular: false
+    more_info: >
+      <p>Alicen Liu</p>
 
   - align: right
     image: annali.jpg
@@ -57,11 +50,11 @@ profiles:
       <p>Anna Li</p>
 
   - align: right
-    image: samsalwan.jpg
-    content: officers/sam.md
+    image: alliechinchar.jpeg
+    content: officers/allie.md
     image_circular: false
     more_info: >
-      <p>Sam Salwan</p>
+      <p>Allie Chinchar</p>
 
   - align: right
     image: ellykang.png
@@ -72,15 +65,29 @@ profiles:
 
   - align: right
     # image: emmazhu.png
-    content: officers/fatimeh.md
-    image_circular: false
-    more_info: >
-      <p>Fatimeh Al Ghannam</p>
-
-  - align: right
-    # image: emmazhu.png
     content: officers/tea.md
     image_circular: false
     more_info: >
       <p>Tea Picconatto</p>
+
+  - align: right
+    # image: .png
+    content: officers/michelle.md
+    image_circular: false
+    more_info: >
+      <p>Michelle Xing</p>
+
+  - align: right
+    # image: .png
+    content: officers/ella.md
+    image_circular: false
+    more_info: >
+      <p>Ella Pace</p>
+
+  - align: right
+    # image: .png
+    content: officers/ridhima.md
+    image_circular: false
+    more_info: >
+      <p>Ridhima Singh</p>
 ---
