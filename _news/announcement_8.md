@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 Book Talk with Judd Kessler
-
