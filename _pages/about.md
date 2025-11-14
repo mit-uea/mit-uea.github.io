@@ -55,7 +55,7 @@ latest_posts: false # includes a list of the newest posts
 
 <div style="background:white; padding: 20px 25px; border-left: 6px solid #000080; border-radius: 6px;">
 
-<h2 style="color:#000080 !important; margin:0; padding:0;">Upcoming Event: Book Talk with Judd Kessler</h2>
+<h3 style="color:#000080 !important; margin:0; padding:0;"><strong>Upcoming Event: Book Talk with Judd Kessler</strong></h3>
 
 <p style="font-size: 1.1em; color: #A31F34 !important; margin-top:0; padding:0;">
 <strong>November 20, 2025 @ 4–5pm in E51-376</strong>
@@ -78,8 +78,8 @@ Judd has spent a career studying and designing these very markets. Now, he revea
 </p>
 
 <div style="display: flex; gap: 12px; margin: 20px 0;">
-  <img src="/assets/img/JuddKessler.jpg" width="150" style="border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-  <img src="/assets/img/JuddKesslerCover.png" width="150" style="border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  <img src="/assets/img/JuddKessler.jpg" width="200" style="height:auto; border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  <img src="/assets/img/JuddKesslerCover.png" width="200" style="height:auto; border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
 </div>
 
 <p style="color: #000000">
