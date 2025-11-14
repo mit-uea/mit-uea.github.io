@@ -78,8 +78,8 @@ Judd has spent a career studying and designing these very markets. Now, he revea
 </p>
 
 <div style="display: flex; gap: 12px; margin: 20px 0;">
-  <img src="/assets/img/JuddKessler.jpg" width="200" style="height:auto; border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-  <img src="/assets/img/JuddKesslerCover.png" width="200" style="height:auto; border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  <img src="/assets/img/JuddKessler.jpg" style="height:200; width:auto; border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  <img src="/assets/img/JuddKesslerCover.png" style="height:200; width:auto; border-radius:4px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
 </div>
 
 <p style="color: #000000">
