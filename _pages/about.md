@@ -15,7 +15,7 @@ latest_posts: false # includes a list of the newest posts
 ---
 
 <div style="
-    background: linear-gradient(135deg, #f0f4ff 0%, #ffffff 100%);
+    background: white;
     padding: 30px 35px;
     border-radius: 12px;
     border-left: 6px solid #A31F34;
@@ -52,21 +52,6 @@ latest_posts: false # includes a list of the newest posts
   </p>
 
 </div>
-
-<!-- <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
-  <img src="/assets/img/mit_econ_logo.png"
-       style="width: 170px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-</div>
-
-Welcome to the MIT Undergraduate Economics Association website! We're a community of undergraduates passionate about economics, coming together to enhance academic pursuits, broaden career prospects, and expand networks both internally and externally.
-
-Join us for engaging talks, social gatherings, and various events held throughout the year!
-
-Stay updated by adding our Google Calendar 📅: [Events Calendar](https://calendar.google.com/calendar/embed?src=r5t5oam042fc14sj9s2s47pjio%40group.calendar.google.com&ctz=America%2FNew_York)
-
-We look forward to having you with us! -->
-
----
 
 <div style="background:#ffffff; padding: 20px 25px; border-left: 6px solid #000080; border-radius: 6px;">
 

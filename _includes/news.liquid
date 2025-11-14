@@ -1,4 +1,4 @@
-<div class="news" style="margin-top: 3rem; padding: 25px 30px; background: #f8f9fc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
+<div class="news" style="margin-top: 3rem; padding: 25px 30px; background: white; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
 
   <h2 style="color: #A31F34; font-size: 1.8rem; margin-top: 0; margin-bottom: 1rem; font-weight: 700;">
     Latest News
@@ -24,7 +24,7 @@
               {% if item.inline %}
                 <span style="color:#333;">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</span>
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}" style="color:#2a45d8; font-weight: 600; text-decoration: none;">
+                <a class="news-title" href="{{ item.url | relative_url }}" style="color:#000080; font-weight: 600; text-decoration: none;">
                   {{ item.title }}
                 </a>
               {% endif %}
@@ -42,6 +42,9 @@
   </div>
 
 </div>
+
+
+
 
 
 {% comment %}
