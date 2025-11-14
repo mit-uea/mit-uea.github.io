@@ -62,7 +62,7 @@ latest_posts: false # includes a list of the newest posts
 </p>
 
 <p style="color: #000000">
-Wharton economist Judd Kessler discusses his new book, <em>“Lucky by Design: The Hidden Economics You Need to Get More of What You Want.”</em>
+Wharton economist <strong> Judd Kessler </strong> discusses his new book, <strong><em>“Lucky by Design: The Hidden Economics You Need to Get More of What You Want.”</em></strong>
 </p>
 
 <p style="color: #000000">
