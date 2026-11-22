@@ -7,19 +7,12 @@ nav: true
 nav_order: 7
 
 profiles:
-  - align: right
-    image: kaileysimons.png
-    content: officers/kailey.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Kailey Simons</p>
-
-  - align: right
-    image: ethannguyen.png
-    content: officers/ethan.md
-    image_circular: false
-    more_info: >
-      <p>Ethan Nguyen</p>
+  # - align: right
+  #   image: kaileysimons.png
+  #   content: officers/kailey.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>Kailey Simons</p>
 
   - align: right
     image: yichensun.jpg
@@ -43,13 +36,6 @@ profiles:
       <p>Alicen Liu</p>
 
   - align: right
-    image: annali.jpg
-    content: officers/anna.md
-    image_circular: false
-    more_info: >
-      <p>Anna Li</p>
-
-  - align: right
     image: alliechinchar.jpeg
     content: officers/allie.md
     image_circular: false
@@ -64,7 +50,7 @@ profiles:
       <p>Elly Kang</p>
 
   - align: right
-    # image: emmazhu.png
+    # image: .png
     content: officers/tea.md
     image_circular: false
     more_info: >
@@ -86,8 +72,24 @@ profiles:
 
   - align: right
     # image: .png
-    content: officers/ridhima.md
+    content: officers/rivka.md
     image_circular: false
     more_info: >
-      <p>Ridhima Singh</p>
+      <p>Rivka Lipkovitz</p>
+  
+  - align: right
+    # image: .png
+    content: officers/kayla.md
+    image_circular: false
+    more_info: >
+      <p>Kayla Truong</p>
+  
+  - align: right
+    # image: .png
+    content: officers/vienna.md
+    image_circular: false
+    more_info: >
+      <p>Vienna Wyler</p>
+
+
 ---
