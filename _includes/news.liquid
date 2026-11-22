@@ -39,9 +39,11 @@
     <p style="color:black; font-style: italic;">No news so far...</p>
   {% endif %}
 
-  <div style="margin-top: 1rem;">
-    <a href="/news/" style="color:#A31F34; font-weight: 600; text-decoration: underline;">See all news →</a>
-  </div>
+  {% unless page.url == '/news/' %}
+    <div style="margin-top: 1rem;">
+      <a href="/news/" style="color:#A31F34; font-weight: 600; text-decoration: underline;">See all news →</a>
+    </div>
+  {% endunless %}
 </div>
 
 {% comment %}
