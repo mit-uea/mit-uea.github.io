@@ -27,9 +27,9 @@ profiles:
     image_circular: false
     more_info: >
       <p>Yichen Sun</p>
-  
+
   - align: right
-    # image: 
+    # image:
     content: officers/ridhima.md
     image_circular: false
     more_info: >
@@ -83,20 +83,18 @@ profiles:
     image_circular: false
     more_info: >
       <p>Rivka Lipkovitz</p>
-  
+
   - align: right
     # image: .png
     content: officers/kayla.md
     image_circular: false
     more_info: >
       <p>Kayla Truong</p>
-  
+
   - align: right
     # image: .png
     content: officers/vienna.md
     image_circular: false
     more_info: >
       <p>Vienna Wyler</p>
-
-
 ---
