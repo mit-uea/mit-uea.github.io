@@ -1,4 +1,4 @@
-Vice President
+Co-President
 
 - he/him
 - 2027
