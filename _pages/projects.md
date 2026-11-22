@@ -6,7 +6,7 @@ description: explore mit's economics department (course 14), academic programs, 
 nav: true
 nav_order: 3
 display_categories: [fourteen, majors]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
