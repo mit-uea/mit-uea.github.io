@@ -1,4 +1,4 @@
-Academic Chair
+Vice President
 
 - she/her
 - 2027

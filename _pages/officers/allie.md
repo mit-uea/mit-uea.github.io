@@ -1,4 +1,4 @@
-First-Year Experience Chair
+Co-President
 
 - she/her
 - 2027
