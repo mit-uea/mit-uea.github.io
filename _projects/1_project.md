@@ -2,7 +2,7 @@
 layout: page
 title: Course 14 Underground Handbook
 description: The inside scoop on classes, careers, UROPs, internships, externships, and more in Course 14 -- written by students
-img: assets/img/mit_econ_logo.png
+# img: assets/img/mit_econ_logo.png
 importance: 1
 category: fourteen
 related_publications: false
