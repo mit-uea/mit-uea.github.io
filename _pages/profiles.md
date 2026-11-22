@@ -15,11 +15,25 @@ profiles:
   #     <p>Kailey Simons</p>
 
   - align: right
+    image: alliechinchar.jpeg
+    content: officers/allie.md
+    image_circular: false
+    more_info: >
+      <p>Allie Chinchar</p>
+
+  - align: right
     image: yichensun.jpg
     content: officers/yichen.md
     image_circular: false
     more_info: >
       <p>Yichen Sun</p>
+  
+  - align: right
+    # image: 
+    content: officers/ridhima.md
+    image_circular: false
+    more_info: >
+      <p>Ridhima Singh</p>
 
   - align: right
     # image: .png
@@ -34,13 +48,6 @@ profiles:
     image_circular: false
     more_info: >
       <p>Alicen Liu</p>
-
-  - align: right
-    image: alliechinchar.jpeg
-    content: officers/allie.md
-    image_circular: false
-    more_info: >
-      <p>Allie Chinchar</p>
 
   - align: right
     image: ellykang.png
